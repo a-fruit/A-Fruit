@@ -28,7 +28,6 @@ Alongside my professional work, I release electronic music as A.Fruit and contin
 ### Brands & Media
 - Reebok
 - Yandex
-- DONSTROY
 
 ### Music
 - Electronic music producer under the name A.Fruit

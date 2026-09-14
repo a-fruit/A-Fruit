@@ -25,6 +25,11 @@ Alongside my professional work, I release electronic music as A.Fruit and contin
 - Video tutorials for SOMA Laboratory Pulsar-23
 - Sound design and synthesis workshops
 
+### Brands & Media
+- Reebok
+- Yandex
+- DONSTROY
+
 ### Music
 - Electronic music producer under the name A.Fruit
 
@@ -38,7 +43,3 @@ Alongside my professional work, I release electronic music as A.Fruit and contin
 - Interactive Audio
 - Creative Tools
 
-## Links
-
-- LinkedIn: https://linkedin.com/in/annafruit
-- SoundCloud: https://soundcloud.com/annafruit

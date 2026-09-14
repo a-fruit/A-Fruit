@@ -1,16 +1,28 @@
-## Hi there 👋
+# Anna Derlemenko
 
-<!--
-**Fruit-hub/Fruit-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Composer & Sound Designer for games, media and music technology.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create music, sound design and sonic identities for games, interactive media and creative technology projects.
+
+My background spans game audio, music production, synthesis, preset design and educational work with music technology companies.
+
+## Selected Work
+
+### Games
+- Gremlins, Inc.
+- Spire of Sorcery
+
+### Music Technology
+- Native Instruments Massive X presets
+- Native Instruments Maschine sound bank
+- Sound design & synthesis workshops
+
+### Music
+- Electronic music producer under the name A.Fruit
+
+## Links
+
+- LinkedIn: https://linkedin.com/in/annafruit
+- SoundCloud: https://soundcloud.com/annafruit
